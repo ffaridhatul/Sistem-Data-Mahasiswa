@@ -1,0 +1,32 @@
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\bin\Debug\Mission02_Sistem_Data_buku.exe.config
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\bin\Debug\Mission02_Sistem_Data_buku.exe
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\bin\Debug\Mission02_Sistem_Data_buku.pdb
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\bin\Debug\MaterialSkin.dll
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_Mahasiswa.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.DisplayForm.resources
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.InputForm.resources
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.MainForm.resources
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.SearchForm.resources
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_Mahasiswa.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_Mahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission0.97C6DC64.Up2Date
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.exe
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.pdb
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\bin\Debug\Mission02_Sistem_Data_buku.exe.config
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\bin\Debug\Mission02_Sistem_Data_buku.exe
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\bin\Debug\Mission02_Sistem_Data_buku.pdb
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\bin\Debug\MaterialSkin.dll
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_Mahasiswa.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_Mahasiswa.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_Mahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\obj\Debug\Mission0.97C6DC64.Up2Date
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.exe
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.pdb
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\obj\Debug\Mission03_Sistem_Data_Mahasiswa.DisplayForm.resources
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\obj\Debug\Mission03_Sistem_Data_Mahasiswa.InputForm.resources
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\obj\Debug\Mission03_Sistem_Data_Mahasiswa.MainForm.resources
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku - Copy\Mission02_Sistem_Data_buku\obj\Debug\Mission03_Sistem_Data_Mahasiswa.SearchForm.resources

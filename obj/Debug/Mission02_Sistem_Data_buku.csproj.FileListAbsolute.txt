@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.DisplayForm.resources
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.InputForm.resources
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.SearchForm.resources
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\bin\Debug\Mission02_Sistem_Data_buku.exe.config
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\bin\Debug\Mission02_Sistem_Data_buku.exe
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\bin\Debug\Mission02_Sistem_Data_buku.pdb
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.exe
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.pdb
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\bin\Debug\MaterialSkin.dll
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission02_Sistem_Data_buku.MainForm.resources
+C:\Users\Lenovo\source\repos\Mission02_Sistem_Data_buku\Mission02_Sistem_Data_buku\obj\Debug\Mission0.BDDEF76C.Up2Date
